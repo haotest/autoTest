@@ -1,0 +1,8 @@
+[2018-05-07 10:14:50] [INFO] 加载驱动
+[2018-05-07 10:14:54] [INFO] 打开的网址为：https://www.jd.com/
+[2018-05-07 10:14:54] [INFO] 查找到相应元素: id: ttbar-login
+[2018-05-07 10:14:58] [INFO] 对元素： id: ttbar-login做点击操作
+[2018-05-07 10:14:58] [INFO] 查找到相应元素: xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a
+[2018-05-07 10:14:58] [INFO] 对元素： xpath: /html/body/div[2]/div[2]/div[1]/div/div[3]/a做点击操作
+[2018-05-07 10:14:58] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
+[2018-05-07 10:14:58] [INFO] 查找到相应元素: xpath: //*[@id="loginname"]
